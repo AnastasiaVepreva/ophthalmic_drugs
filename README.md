@@ -6,8 +6,9 @@ The goal of this project is to create a model that predicts the properties of op
 
 This repository contains the folders: 
 
--Data (datasets with properties of eye drugs)
+<ul></ul>
+<li>Data (datasets with properties of eye drugs)
 
--Analysis (several files of data preprocessing)
+<li>Analysis (several files of data preprocessing)
 
--Scripts
+<li>Scripts
