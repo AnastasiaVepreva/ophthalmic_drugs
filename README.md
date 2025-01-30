@@ -21,6 +21,7 @@ We used KAN model for melanin binding prediction. You can install pykan environm
 | RDKit | 2020.09.1.0 |
 
 ## Usage
+Run these commands from freedpp/freedpp folder.
 ### Training
 ```
 python main.py --exp_root ../experiments
