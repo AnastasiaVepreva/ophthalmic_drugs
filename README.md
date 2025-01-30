@@ -41,3 +41,8 @@ python main.py --exp_root ../experiments
 --box_size "9.427,10.664,10.533"     --seed 150     --name freedpp
  --objectives "DockingScore,Corneal,Melanin,Irritation"     --weights "1.0,1.0,1.0,1.0" --checkpoint ..experiments/freedpp/ckpt/model_200.pth  
 ```
+## Contents
+* Data
+  * Contains .csv files with datasets including SMILES and target value
+* Scripts
+  * Contains .ipynb files with code for running ML models
